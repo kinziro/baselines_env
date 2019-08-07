@@ -2,7 +2,7 @@ baselines_env
 ====
 
 深層強化学習ライブラリ「stable-baselines」実行用dockerファイルです.  
-OS : macOS Mojave  
+OS : Ubuntu 18.04  
 
 ## Description
 
